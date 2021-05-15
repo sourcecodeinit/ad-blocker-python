@@ -1,0 +1,15 @@
+{
+    "name": "name of exstebntion",
+    "version": "1.0",
+    "description": "description here",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "directory for chrome extsentin logo size 16",
+        "48": "directory for chrome extsentin logo size 16",
+        "128": "directory for chrome extsentin logo size 16"
+    },
+    "manifest_version": 2
+}
